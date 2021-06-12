@@ -1,0 +1,1 @@
+{"error": false, "category": "Programming", "type": "twopart", "setup": "What's the object-oriented way to become wealthy?", "delivery": "Inheritance.", "flags": {"nsfw": false, "religious": false, "political": false, "racist": false, "sexist": false, "explicit": false}, "id": 46, "safe": true, "lang": "en"}
